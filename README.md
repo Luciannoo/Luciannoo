@@ -1,4 +1,4 @@
-<h2 align="left">Hi! Eu sou Luciano Ribeiro, estou no ramo de TI tentando ser Full-Stack.</h2>
+<h2 align="left">Hi! Eu sou Luciano Ribeiro, estou no ramo de TI com objetivo de ser Full-Stack.</h2>
 
 <div>
       <h2>Uma descrição sobre mim...</h2>
